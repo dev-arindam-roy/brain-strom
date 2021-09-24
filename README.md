@@ -1,3 +1,7 @@
-# CLIENT BOX
+# ONLINE EXAMINATION SYSTEM BY LARAVEL VUE
 
-# By using this you can manage your clients & projects also maintain your accounting.
+## Features
+### - Admin Management
+### - User Management
+### - Question Management
+### - Exam Management
